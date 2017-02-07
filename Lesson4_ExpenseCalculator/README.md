@@ -3,20 +3,19 @@
 ### Course Title:
 LIS 2360:  Web Application Development
 
-### Assignment Date:  
-(Month Day, Year)
+### Assignment Date:
+February 6, 2016
 
 ### Student Name:  
-(First and Last Name)
+William McLaren
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project I edited the HTML coding to make a webpage that turns money spent on various items into percentages function. I also added different categories of expenses and made sure they function on the page as well.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://billymclaren.github.io/lesson4_javascript1/Lesson4_ExpenseCalculator/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript is a loosely typed programming language.
+2. Reverse words are words that are part of the JavaScript syntax.
+3. JavaScript can turn static documents into applications such as games or calculators.
